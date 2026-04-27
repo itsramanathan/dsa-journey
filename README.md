@@ -1,6 +1,3 @@
-# dsa-journey
-DSA Journey
-=======
 # DSA Journey
 
 Solving LeetCode problems following the [NeetCode 150](https://neetcode.io/roadmap) roadmap.
